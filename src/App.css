@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+html,
+body{
+    background-color: #1b1b32;
+}
+
+.App{
+
+}
+.container-logo{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo{
+    height: 50px;
+}
